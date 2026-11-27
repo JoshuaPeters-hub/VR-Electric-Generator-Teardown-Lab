@@ -4,7 +4,9 @@ A virtual reality lab where engineering students learn how an electric generator
 
 Built in Unity with C# for Oculus headsets (tested on Oculus Quest with Touch controllers), as part of an Extended Reality (XR) engineering workshop for undergraduate students.
 
-**Demo video:** https://www.youtube.com/watch?v=BrQKqbDHWYc
+![Grabbing a generator part in VR (left) while the headset user moves in the real room (right)](Media/demo.gif)
+
+**Demo video:** https://www.youtube.com/watch?v=BrQKqbDHWYc · **One-page summary:** [Project Summary (PDF)](Docs/Project%20Summary.pdf)
 
 ## What you can do
 
